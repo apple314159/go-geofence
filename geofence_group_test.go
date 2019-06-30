@@ -3,7 +3,7 @@ package geofence
 import (
 	"testing"
 
-	"github.com/kellydunn/golang-geo"
+	"github.com/apple314159/golang-geo"
 	"github.com/stretchr/testify/assert"
 )
 

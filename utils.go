@@ -1,9 +1,8 @@
 package geofence
 
 import (
+	"github.com/apple314159/golang-geo"
 	"math"
-
-	"github.com/kellydunn/golang-geo"
 )
 
 func project(value float64, tileSize float64) float64 {

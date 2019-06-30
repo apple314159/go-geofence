@@ -1,6 +1,6 @@
 package geofence
 
-import "github.com/kellydunn/golang-geo"
+import "github.com/apple314159/golang-geo"
 
 // region is a struct to store good and bad areas in region
 type region struct {

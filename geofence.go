@@ -1,6 +1,6 @@
 package geofence
 
-import "github.com/kellydunn/golang-geo"
+import "github.com/apple314159/golang-geo"
 
 // Geofence is a struct for efficient search whether a point is in polygon
 type Geofence struct {
